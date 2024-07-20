@@ -51,3 +51,10 @@ Check Queue: If the queue is not yet filled to the required sample duration, the
  The blob is passed through the network to obtain activity recognition predictions, and the predicted activity label is determined.
 ## Display Results:
  The predicted activity is displayed on the frames in real-time, and the annotated frames are shown in a window. The process continues until the 'q' key is pressed to exit the loop.
+
+## Results Obtained
+ ![Screenshot 2024-06-21 151430](https://github.com/user-attachments/assets/450179ad-d508-4e18-aa50-548d90a4a91f)
+![Screenshot 2024-06-21 151616](https://github.com/user-attachments/assets/d5e2f0cc-1800-42b9-9cc4-4120fe9b49cb)
+![Screenshot 2024-06-21 151802](https://github.com/user-attachments/assets/7ea439c1-ede6-4e25-9008-fbea8c5844fa)
+![Screenshot 2024-06-21 152223](https://github.com/user-attachments/assets/de5df6c6-5c8a-442d-a4dc-a77706f33463)
+![Screenshot 2024-06-21 152706](https://github.com/user-attachments/assets/7a0f45fd-1696-4c98-9644-7e85b8a6ae7b)
